@@ -161,6 +161,20 @@
     background: gray;
     color: aliceblue;
 }
+.humble-container{
+    background: #000;
+    align-items: center;
+    height: 150px;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.humble-title {
+    color: orange;
+    font-size: 25px;
+    padding-top: 75px;
+    
+}
 
 
 
