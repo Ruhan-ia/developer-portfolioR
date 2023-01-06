@@ -107,3 +107,37 @@
 .food-description{
     padding-top: 50px;
 }
+/* card section */
+.text{
+    margin-top: 100px;
+    text-align: center;
+}
+.card-container{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-title{
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+.card-description{
+    margin-bottom: 30px;
+}
+.img{
+    width: 300px;
+    
+    margin-right: 300px;
+    
+    
+}
+.card{
+    width: 300px;
+   
+}
+
+
+
