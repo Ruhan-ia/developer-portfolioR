@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    font-family:  sans-serif;
+}
+.header{
+    background-image: url('../images/donation6.jpg');
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.header-menu{
+    padding: 100px 0;
+}
+
+.header-title{
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    padding-bottom: 20px;
+} 
+.header-description{
+    color: whitesmoke;
+    font-weight: 200;
+    padding-bottom: 20px;
+}
+.btn-primary{
+    border: 0;
+    color: white;
+    background-color: orange;
+    padding: 20px;
+    font-size: 24px;
+    border-radius: 15px;
+}
+/* donate section */
+.donate-today{
+    margin-top: 100px;
+    text-align: center;
+
+}
+.donate-title{
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.donate-description{
+    margin-bottom: 150px;
+    font-size: 20;
+}
+.donate-container{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+   
+}
+.doante{
+    text-align: center;
+    background-color: #FAFAFA;
+    color: gray;
+}
+.donate-taka{
+    padding: 30px;
+    font-size: 25px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.donate-taka:hover{
+    border: 5px solid orange;
+
+}
+.other{
+    text-align: center;
+    color: gray;
+}
