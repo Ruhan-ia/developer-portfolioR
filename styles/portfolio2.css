@@ -138,6 +138,30 @@
     width: 300px;
    
 }
+/* updates section */
+.form{
+    margin-top: 200px;
+    text-align: center;
+}
+.form-container{
+    margin: 100px;
+    display: flex;
+   height: 100px;
+    justify-content: center;
+    background-color: lightgoldenrodyellow;
+    align-items: center;
+   
+}
+.btn{
+    background: orange;
+    color: white;
+    border: 0;
+}
+.form-inside{
+    background: gray;
+    color: aliceblue;
+}
+
 
 
 
