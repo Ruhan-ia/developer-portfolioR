@@ -74,3 +74,36 @@
     text-align: center;
     color: gray;
 }
+/* our donate plan */
+.donate-plan{
+    margin-top: 50px;
+    text-align: center;
+
+}
+.plan-title{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.plan-container{
+    margin-top: 20px;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+}
+.plan{
+    background: rgba(79, 157, 166, 0.1);
+    width: 360px;
+    height: 352px;
+}
+.plan i{
+    padding: 20px 0;
+}
+.food{
+    padding: 10px 0;
+    font-size: 23px;
+}
+.food-description{
+    padding-top: 50px;
+}
